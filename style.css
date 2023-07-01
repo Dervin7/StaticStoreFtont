@@ -41,3 +41,14 @@ nav li {
     text-align: center;
     font-family: cursive;
 }
+
+.navInfo {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    list-style: none;
+}
+
+#footerMenu {
+    
+}
